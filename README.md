@@ -27,4 +27,7 @@ To run:
 2. Open Visual Studio code and then first time run `npm install`
 3. `SB_CLIENT_ID=<put_in_your_client_id> npm start`
 
+## LICENSE
+
+Copyright (c) 2021 @Anudeep Sirasanambati. Everyone is permitted to copy and distribute verbatim copies of this license document, but changing the same is not allowed.
 
