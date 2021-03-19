@@ -8,9 +8,16 @@ Some of the maintenance things from a hardware store and some maintenance essent
 Brooms and dustbins, snow shovels, garbage and recycling containers, light-bulbs, household cleaners, furnace filters and screen for when the cat climbs on your screen door.
 Up-sell items used in this application for a hardware store are simonize car cloths, geeky headlamps, ear buds, de-scaler for kettle.
 
-TECHNOLOGIES USED Html Css Javascript NodeJS
+TECHNOLOGIES USED 
+Html
+Css 
+Javascript 
+NodeJS
 
-INSTALLATIONS Visual Studio Code GitHub Heroku
+INSTALLATIONS 
+Visual Studio Code 
+GitHub 
+Heroku
 
 To run:
 
