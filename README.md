@@ -1,6 +1,6 @@
-## Name: Anudeep Sirasanambati
+# Name: Anudeep Sirasanambati
 
-# <a href="https://github.com/Asirasanambati6173/homehardware" target="_blank">Home-Hardware</a>
+# <a href="https://github.com/Asirasanambati6173/homehardware" target="_blank">Home-Hardware App</a>
 
 ## Description
 
